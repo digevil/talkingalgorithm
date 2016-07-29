@@ -1,2 +1,2 @@
-# talkingalgorithm
-yet another talking algorithms
+# talking algorithm
+yet another talking algorithm
